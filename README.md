@@ -1,5 +1,4 @@
-On this project we want to create an event scheduler. We will collect 
-
+On this project we want to create an event scheduler. 
 
 
 
